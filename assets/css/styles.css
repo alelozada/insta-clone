@@ -10,6 +10,7 @@
   --variable: #fff;
 
   /*========== Colors ==========*/
+  --font-color: #2c2c2c;
 
   /*========== Font and typography ==========*/
   --body-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -84,6 +85,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: var(--font-color);
 }
 
 a:visited{
